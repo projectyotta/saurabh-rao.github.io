@@ -2,17 +2,6 @@
 layout: post
 title: "First Post!"
 date: 2014-04-30
-title: Hello world!
-link: https://maruwahna.wordpress.com/2012/06/20/hello-world/
-author: maruwahna
-description: 
-post_id: 1
-created: 2012/06/20 09:25:06
-created_gmt: 2012/06/20 09:25:06
-comment_status: open
-post_name: hello-world
-status: publish
-post_type: post
 ---
 
 # Hello world!
@@ -23,4 +12,3 @@ Welcome to [WordPress.com](https://wordpress.com/)! This is your very first post
 
 **[Mr WordPress](#1 "2012-06-20 09:25:06"):** Hi, this is a comment.  
 To delete a comment, just log in, and view the posts' comments, there you will have the option to edit or delete them.
-
