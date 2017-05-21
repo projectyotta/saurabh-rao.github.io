@@ -1,3 +1,7 @@
+---
+layout: post
+title: "First Post!"
+date: 2014-04-30
 title: Hello world!
 link: https://maruwahna.wordpress.com/2012/06/20/hello-world/
 author: maruwahna
@@ -9,6 +13,7 @@ comment_status: open
 post_name: hello-world
 status: publish
 post_type: post
+---
 
 # Hello world!
 
